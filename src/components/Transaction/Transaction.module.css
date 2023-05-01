@@ -1,0 +1,15 @@
+.tableCell {
+  color: #333333;
+  width: 300px;
+  height: 50px;
+
+  align-items: center;
+  text-align: center;
+  font-size: 24px;
+
+  border: 1px solid #cccccc;
+}
+
+.tableRow{
+  background-color: #c1c1c1;
+};

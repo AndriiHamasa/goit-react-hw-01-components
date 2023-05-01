@@ -1,0 +1,17 @@
+.transactionHistory {
+  width: 100%;
+  max-width: 900px;
+  border: 1px solid #cccccc;
+  background-color: #ffffff;
+  border-collapse: collapse;
+}
+
+.tableHead {
+  background-color: #87CEFA;
+  color: #ffffff;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 24px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
